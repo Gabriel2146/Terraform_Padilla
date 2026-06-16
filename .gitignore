@@ -1,0 +1,14 @@
+# Terraform
+.terraform*
+*.tfstate
+*.tfstate.backup
+crash.log
+override.tf
+terraform.rc
+
+# SSH keys
+id_rsa_techustart
+
+# OS
+.DS_Store
+Thumbs.db
